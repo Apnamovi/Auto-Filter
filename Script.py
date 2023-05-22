@@ -27,7 +27,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 <b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/mindsboss>💕 Jᴋ ᴅᴇᴠᴇʟᴏᴘʀ 💘</a></b>
 
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/JkbSuperBots>🧭 ʟᴜsɪ ғɪʟᴍs 🧭</a></b>
+<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/JkbSuperBots>🧭 Jᴋʙ Sᴜᴘᴇʀ Bᴏᴛs 🧭</a></b>
 
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
 
