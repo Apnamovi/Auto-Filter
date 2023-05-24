@@ -125,7 +125,7 @@ async def next_page(bot, query):
             ],
         )
     btn.insert(0, [
-        InlineKeyboardButton("⚡ Cʜᴇᴄᴋ Bᴏᴛ PM ⚡", url=f"https://t.me/JkbSuperBots")
+        InlineKeyboardButton("💘 Jᴏɪɴ Bᴀᴄᴋᴜᴘ Cʜᴀɴɴᴇʟ 💘", url=f"https://t.me/luluMixofficial")
     ])
     try:
         await query.edit_message_reply_markup(
@@ -1053,7 +1053,7 @@ async def auto_filter(client, msg, spoll=False):
         ]
 
     btn.insert(0, [
-        InlineKeyboardButton("💘 Jᴏɪɴ Bᴀᴄᴋᴜᴘ Cʜᴀɴɴᴇʟ 💘", url=f"https://t.me/JkbSuperBots")
+        InlineKeyboardButton("💘 Jᴏɪɴ Bᴀᴄᴋᴜᴘ Cʜᴀɴɴᴇʟ 💘", url=f"https://t.me/luluMixofficial")
     ])
 
     if offset != "":
