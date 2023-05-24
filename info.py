@@ -44,9 +44,9 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Channel Button Links
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/Apnamovie4')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/JkbSuperBots')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/Apnamovie4')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/LuLuMixBox')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/luluMixofficial')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/LuLuMixBox')
 MSG_ALRT = environ.get('MSG_ALRT', 'Share and Support Us')
 
 # Custom Chats
